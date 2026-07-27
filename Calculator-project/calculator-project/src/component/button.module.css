@@ -1,0 +1,12 @@
+.btn-otr{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap:20px;
+}
+
+.btn-otr button{
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+}

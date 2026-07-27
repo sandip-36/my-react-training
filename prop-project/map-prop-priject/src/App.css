@@ -1,0 +1,7 @@
+.container-food {
+    width: 50%;
+    border: 2px solid #ababab;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
