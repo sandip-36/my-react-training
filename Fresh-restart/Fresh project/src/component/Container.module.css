@@ -1,0 +1,7 @@
+.contain{
+    max-width: 60%;
+    padding: 40px;
+    border: 2px solid #444242;
+    margin: auto;
+    margin-bottom: 30px;
+}

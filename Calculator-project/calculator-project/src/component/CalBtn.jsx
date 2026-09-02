@@ -1,7 +1,9 @@
-const CalBtn = ({calbt}) => {
+const CalBtn = ({calbt, onButtonClick}) => {
     return(
         <>
-            <button>{calbt}</button>
+            <button
+            onClick={onButtonClick}
+            >{calbt}</button>
         </>
     )
 }
